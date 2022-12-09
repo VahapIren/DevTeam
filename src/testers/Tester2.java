@@ -5,5 +5,6 @@ public class Tester2 {
         System.out.println("Tester2 page");
         System.out.println("Muhtar");
         //main
+        System.out.println("testing performed. No defect");
     }
 }
