@@ -8,5 +8,6 @@ public class Tester2 {
         System.out.println("testing performed. No defect");
         System.out.println("smoke test OK");
         //tester2
+        //stage2
     }
 }
