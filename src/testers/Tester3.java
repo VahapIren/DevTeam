@@ -5,5 +5,9 @@ public class Tester3 {
         System.out.println("Tester3 page");
         System.out.println("Saim");
         //git-github
+        System.out.println("testing performed. No defect");
+        System.out.println("regression test OK");
+        //tester3
+        //stage3
     }
 }
