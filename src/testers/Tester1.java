@@ -8,5 +8,6 @@ public class Tester1 {
         System.out.println("Adam");
         //review
         System.out.println("testing performed. 1 defect");
+        System.out.println("defect corrected");
     }
 }
