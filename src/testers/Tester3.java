@@ -7,5 +7,6 @@ public class Tester3 {
         //git-github
         System.out.println("testing performed. No defect");
         System.out.println("regression test OK");
+        //tester3
     }
 }
