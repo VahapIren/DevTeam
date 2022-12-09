@@ -8,5 +8,6 @@ public class Tester3 {
         System.out.println("testing performed. No defect");
         System.out.println("regression test OK");
         //tester3
+        //stage3
     }
 }
