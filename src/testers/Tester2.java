@@ -6,6 +6,6 @@ public class Tester2 {
         System.out.println("Muhtar");
         //main
         System.out.println("testing performed. No defect");
-        System.out.println("smoke test");
+        System.out.println("smoke test OK");
     }
 }
