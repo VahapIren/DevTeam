@@ -7,5 +7,6 @@ public class Tester2 {
         //main
         System.out.println("testing performed. No defect");
         System.out.println("smoke test OK");
+        //tester2
     }
 }
